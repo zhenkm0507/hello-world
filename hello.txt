@@ -3,3 +3,4 @@ Release fix bug
 hotfix bug
 feature second change rere
 release 0.2.0 
+release 0.2.0 
